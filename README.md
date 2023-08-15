@@ -1,5 +1,10 @@
 # Treinamento de IA para Detecção de Diabetes
 
+![GitHub watchers](https://img.shields.io/github/watchers/Giovani-Gomes/Predicao_Diabetes?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Giovani-Gomes/Predicao_Diabetes)
+
+
+
 
 Este repositório contém um projeto de treinamento de Inteligência Artificial (IA) para a detecção de diabetes. O objetivo deste projeto é desenvolver um modelo de IA capaz de prever a presença ou ausência de diabetes com base em dados clínicos e de saúde do paciente.
 
