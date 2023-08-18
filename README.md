@@ -3,9 +3,6 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/Giovani-Gomes/Predicao_Diabetes?style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Giovani-Gomes/Predicao_Diabetes)
 
-
-
-
 Este repositório contém um projeto de treinamento de Inteligência Artificial (IA) para a detecção de diabetes. O objetivo deste projeto é desenvolver um modelo de IA capaz de prever a presença ou ausência de diabetes com base em dados clínicos e de saúde do paciente.
 
 ## Visão Geral
@@ -21,7 +18,7 @@ Antes de alimentar os dados ao modelo, realizamos etapas de pré-processamento, 
 
 * Tratamento de valores ausentes.
 * Normalização de dados para garantir que todas as características tenham a mesma escala.
-- Divisão dos dados em conjuntos de treinamento e teste para avaliar o desempenho do modelo.
+* Divisão dos dados em conjuntos de treinamento e teste para avaliar o desempenho do modelo.
  
 ## Modelo de IA
 O modelo de IA escolhido para este projeto é um algoritmo de classificação, como Support Vector Machines (SVM), Naive Baynes e K-Nearest Neighbors (KNN) também podem ser explorados e comparados para determinar qual apresenta o melhor desempenho.
